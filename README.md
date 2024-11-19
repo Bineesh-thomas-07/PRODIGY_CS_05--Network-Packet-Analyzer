@@ -1,7 +1,3 @@
-Here’s an updated and detailed **README.md** for your **Network Packet Analyzer** project, including **key features** and a more descriptive section.
-
----
-
 # Network Packet Analyzer
 
 ## Project Description
